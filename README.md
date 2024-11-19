@@ -1,5 +1,6 @@
 - 👋 안녕하세요. 홍성주 입니다.
-- :sunny: Language : C / C++
+- 
+- :sunny: Language : C++
 
 - [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdtjdwn)](https://solved.ac/ghdtjdwn/) 
 
