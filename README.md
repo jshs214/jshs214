@@ -2,7 +2,6 @@
 - email : jshs214@naver.com
 - :sunny: Language : C++
 
-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdtjdwn)](https://solved.ac/ghdtjdwn/) 
 
 <!---
 jshs214/jshs214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
